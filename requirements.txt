@@ -1,1 +1,5 @@
 gradio>=6.0
+flask
+gunicorn
+flask
+gunicorn
